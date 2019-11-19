@@ -1,4 +1,4 @@
-# Hapus di Awal (Akhir Next)
+# Hapus di Akhir (Prev & Next)
 Linked List Application with Circular Prev and Next Pointer.
 
 The last data will be linked with the first data so it will make circular linked list.
